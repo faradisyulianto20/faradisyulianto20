@@ -24,9 +24,9 @@
 
 ### 📊 GitHub Stats
 
-[![Faradis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faradisyulianto20&show_icons=true&theme=default)](https://github.com/faradisyulianto20)  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=faradisyulianto20&theme=default&hide_border=false)](https://github.com/faradisyulianto20) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faradisyulianto20&layout=compact&theme=default)](https://github.com/faradisyulianto20)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=faradisyulianto20&theme=default&hide_border=false)](https://github.com/faradisyulianto20)  
+[![Faradis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faradisyulianto20&show_icons=true&theme=default)](https://github.com/faradisyulianto20)  
 
 ---
 
