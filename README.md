@@ -1,5 +1,9 @@
-## Hi there, I'm Faradis 👋
+### Hi there, I'm Faradis 👋
 
+🧑‍🎓 Studied [Software Engineer](https://youtu.be/t_jM0YcmgSo?si=_cgysutUDaw2GAIE) at Gadjah Mada University <br/>
+💭 Currently learning about Web Development, Computer Vision, and UI/UX
+
+[![Faradis's GitHub stats](https://github-readme-stats.vercel.app/api?username=faradisyulianto20)](https://github.com/faradisyulianto20/github-readme-stats)
 <!--
 **faradisyulianto20/faradisyulianto20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
