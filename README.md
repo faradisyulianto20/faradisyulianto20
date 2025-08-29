@@ -1,6 +1,4 @@
-## Hi there 👋
-
-My name is Faradis, and I'm a Gadjah Mada University student. Currently learning Front-End Developer!
+## Hi there, I'm Faradis 👋
 
 <!--
 **faradisyulianto20/faradisyulianto20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
